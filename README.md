@@ -1,7 +1,7 @@
 # Projeto_Imersao
 Crie uma música tão escutada quanto aos hits mundiais de 2023, e tudo com auxílio de IA Generativa e Machine Learning
 
-# Music Success Predictor
+# Criador/Analista Dos Seus Hits Musicais
 
 Este projeto usa aprendizado de máquina para prever o sucesso de uma música com base em seus atributos musicais. Ele também usa o Gemini, um modelo de linguagem grande, para interpretar a descrição de uma música fornecida pelo usuário, gerando uma música modelo, e traduzi-la em atributos musicais
 
